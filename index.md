@@ -1,6 +1,6 @@
 layout: page
 title: "This is a goddamn blog"
-permalink: /about
+permalink: /
 
 # Heading
 
