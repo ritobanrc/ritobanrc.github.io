@@ -1,6 +1,8 @@
+---
 layout: page
 title: "This is a goddamn blog"
 permalink: /
+---
 
 # Heading
 
