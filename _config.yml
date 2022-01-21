@@ -27,7 +27,7 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ritobanrc
 
 # Build settings
-theme: minima
+theme: jekyll-theme-merlot
 #remote_theme: abhinavs/moonwalk
 plugins:
   - jekyll-feed
