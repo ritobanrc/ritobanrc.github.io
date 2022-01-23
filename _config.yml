@@ -31,6 +31,62 @@ github_username:  ritobanrc
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+navbar-links:
+  Home: "index"
+  About Me: "about"
+  Politics: "politics"
+  Book Reviews: "books"
+  Resume: "resume"
+
+social-network-links:
+  email: "ritobanrc@gmail.com"
+  rss: true
+  github: ritobanrc
+  reddit: ritobanrc
+  discord: users/ritobanrc#4105 
+
+rss-description: Ritoban's Blog. I post about random stuff like programming and politics and math and whatever comes to my mind at the moment.
+
+url-pretty: "ritobanrc.github.io"
+  #
+# Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
+excerpt_length: 50
+# Whether or not to show an excerpt for every blog post in the feed page
+feed_show_excerpt: true
+# Whether or not to show a list of tags below each post preview in the feed page
+feed_show_tags: false
+# Add a search button to the navbar
+post_search: true
+
+
+navbar-col: "#111111"
+navbar-text-col: "#89AA83"
+navbar-border-col: "#5CAA4D"
+page-col: "#212121"
+text-col: "#EFEFEF"
+link-col: "#008AFF"
+hover-col: "#63D6FF"
+footer-col: "#111111"
+footer-text-col: "#EEEEEE"
+footer-link-col: "#404040"
+footer-hover-col: "#0085A1"
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      comments: true  # add comments to all blog posts
+      social-share: true # add social media sharing buttons to all blog posts
+  -
+    scope:
+      path: "" # any file that's not a post will be a "page" layout by default
+    values:
+      layout: "page"
 
 # Exclude from processing.
 # The following items will not be processed, by default.
