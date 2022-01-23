@@ -7,4 +7,4 @@ layout: home
 
 Welcome to my blog!
 
-Here are a bunch of posts:
+# Posts
