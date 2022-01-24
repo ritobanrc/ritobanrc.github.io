@@ -1,10 +1,7 @@
 ---
 title: A Man Called Ove
-subtitle: 4/5 stars. A wonderful existential novel, that makes you fall in love with Ove.
-tags: [book]
+tags: [book-review]
 ---
-
-Rating: 4/5
 
 I've been meaning to write a review for this book for quite a while (I finished it near the end of last year), but only just got around to it about a month later, but hopefully I haven't forgotten too much. 
 

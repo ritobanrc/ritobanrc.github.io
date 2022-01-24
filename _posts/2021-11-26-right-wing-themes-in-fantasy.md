@@ -1,4 +1,6 @@
-# Complaining Right Wing Themes in Fantasy
+---
+title: Complaining about Right Wing Themes in Fantasy
+---
 
 there are so many right wing fantasy fans
 they're usually like larpers who wanna imagine a world that only has white men and is free from any modern complexities and is just generally socially regressive

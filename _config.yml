@@ -31,7 +31,7 @@ github_username:  ritobanrc
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
-  - jekyll-remote-theme
+  #- jekyll-remote-theme
 
 navbar-links:
   Home: "index"
@@ -56,7 +56,7 @@ excerpt_length: 50
 # Whether or not to show an excerpt for every blog post in the feed page
 feed_show_excerpt: true
 # Whether or not to show a list of tags below each post preview in the feed page
-feed_show_tags: false
+feed_show_tags: true
 # Add a search button to the navbar
 post_search: true
 
