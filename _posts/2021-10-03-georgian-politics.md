@@ -1,3 +1,8 @@
+---
+title: Georgian Politics
+tags: [politics]
+---
+
 time to learn about georgian politics!
 
 https://www.reuters.com/world/europe/georgia-ruling-party-takes-lead-local-voting-amid-political-crisis-2021-10-03/ alright pretty simple really -- georgia is now a complete parliamentary democracy, similar to the UK (they used to have a largely ceremonial president who was directly elected, but recently, they changed the constitution to make the president completely ceremonial and chosen by parliament)

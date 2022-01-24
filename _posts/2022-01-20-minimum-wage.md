@@ -1,7 +1,6 @@
 ---
-layout: post
 title: Effect of Minimum Wage on Inflation
-date: 2022-01-20
+tags: [politics]
 ---
 
 Overall, the effect negative effect of minimum wage on inflation is not actually that much, and sometimes counteracted with other policy: 

@@ -1,3 +1,8 @@
+---
+title: Cost of Solving Homelessness
+tags: [politics]
+---
+
 I've seen several quite low estimates for the "cost to solve homeless", usually around as low as \$1b. 
 
 i suspect they arrived at that estimate by taking the number of homeless people in the US (500k) and multiplying by \$2000 (average monthly rent in most large cities)

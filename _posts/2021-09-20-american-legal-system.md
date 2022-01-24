@@ -1,4 +1,6 @@
-Some random stuff about the American legal system (that's hopefully correct)
+---
+title: Some random stuff about the American legal system (that's hopefully correct)
+---
 
 The American court system is based off of the English Common Law system. The english common law system was designed by some random-ass king of england who wanted to maintain law and order throughout his kingdom while also maintaining consistency -- the the idea was that he would nominate several magistrates, and those magistrates would ride around the country on horses, staying in an inn at each village for a day or two, and resolving any disputes.  This system worked fine, but was inconsistent -- so in a "brilliant" move, the random-ass king of england decided that his solution would be to make all the different magistrates respect each others decisions -- that's where the current american idea of precedent comes from. Judges ought to respect their prior decisions to maintain continuity in the law.
 

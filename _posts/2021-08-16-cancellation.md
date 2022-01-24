@@ -1,4 +1,7 @@
-on cancellation 
+---
+title: Cancellation 
+tags: [politics]
+---
 
 we live in a civilized country, vigilante or mob justice is generally frowned upon, and i think that's a good thing -- albeit, twitter cancellation is hardly any kind of justice, its entirely impactless, and its also hardly a mob, its entirely manufactured by the twitter algorithm
 like that second point i think is more important -- "cancellation" is not anything resembling doling out justice. if it was, the people being "cancelled" would be the politicians who keep accepting bribes or keep voting to increase the military budget. cancellation is phenomenon entirely manufactured by the twitter algorithm to maximize your time on the site on your interaction with the content on the site, because that lets them maximize the number of ads you see. that is it. that's why the topics are so trivial -- if they were more complicated, then people couldn't reply instantly and get into heated arguments as quickly, which isn't as good for the algorithm. that's also why the topics are so simple and clean cut -- there's two sides, you can immediately pick a side, and immediately start arguing, and that's what the algorithm wants you to do

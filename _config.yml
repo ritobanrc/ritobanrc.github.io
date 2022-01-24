@@ -31,13 +31,13 @@ github_username:  ritobanrc
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
-  #- jekyll-remote-theme
+  - jekyll-remote-theme
 
 navbar-links:
   Home: "index"
   About Me: "about"
-  Politics: "politics"
-  Book Reviews: "books"
+  Politics: "tags#politics"
+  Book Reviews: "tags#book-review"
   Resume: "resume"
 
 social-network-links:
@@ -62,7 +62,7 @@ post_search: true
 
 
 navbar-col: "#111111"
-navbar-text-col: "#89AA83"
+navbar-text-col: "#DDDDDD"
 navbar-border-col: "#5CAA4D"
 page-col: "#212121"
 text-col: "#EFEFEF"

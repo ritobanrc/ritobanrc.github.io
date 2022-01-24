@@ -1,3 +1,8 @@
+---
+title: Taylor Expansions
+tags: [math]
+---
+
 taylor expansions are also pretty cool
 $$\sin{x} = x - \frac{x^3}{3!} + \frac{x^5}{5!} - \frac{x^7}{7!} + \dots$$ 
 that's actually how your calculator calculates sin

@@ -1,3 +1,8 @@
+---
+title: Wooden v. US
+tags: [politics, scotus]
+---
+
 https://ballsandstrikes.org/scotus/wooden-v-united-states/ i really like this article, for a lot of reasons
 
 > zeroing in on the definition of a single term is also a tool of convenience for the Court, because it perpetuates the fantasy of a functional system—of pretending that the arbitrariness in the criminal legal process can be rooted out through honing in on the correct legislative term. This obscures the rot at the core of a system that is almost as inconsistent as it is cruel.

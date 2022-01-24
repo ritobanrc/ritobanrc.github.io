@@ -1,4 +1,7 @@
-Longtermism and Nick Bostrom
+---
+title: Longtermism and Nick Bostrom
+tags: [politics]
+---
 
 https://www.currentaffairs.org/2021/07/the-dangerous-ideas-of-longtermism-and-existential-risk
 

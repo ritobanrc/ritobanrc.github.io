@@ -1,4 +1,7 @@
-# Complex Conjugates and Matrix Transposes: 
+---
+title: Complex Conjugates and Matrix Transposes
+tags: [math]
+---
 
 so an orthogonal matrix (i.e. a rotation matrix) is one where Q^T*Q = I (confirm this for yourself, its very easy, for a matrix to be orthogonal, any two columns must have a dot product of zero, unless they're the same column, in which case the dot product must be one). Equivalently, Q^T = Q^-1 -- so the transpose for an orthogonal matrix is the same as its inverse -- and what makes orthogonal matrices special is that it doesn't scale the vectors its multiplied with -- so the transpose is the inverse for a rotation 
 

@@ -1,3 +1,8 @@
+---
+title: Modern Monetary Theory
+tags: [politics]
+---
+
 so i'm reading about mmt brian https://www.youtube.com/watch?v=-gyj1H-gjI8
 
 specifically i'm skim-reading stephanie kelton's book the deficit myth

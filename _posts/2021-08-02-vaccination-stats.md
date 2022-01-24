@@ -1,3 +1,6 @@
+---
+title: Vaccination Stuff
+---
 
 
 https://www.npr.org/sections/coronavirus-live-updates/2021/07/30/1022867219/cdc-study-provincetown-delta-vaccinated-breakthrough-mask-guidance

@@ -1,4 +1,7 @@
-# Numeric In-Text Citations are Horrible [5]
+---
+title: Numeric In-Text Citations are Horrible
+tags: [rant]
+---
 
 i've also grown to hate number-based citation formats like [5]
 

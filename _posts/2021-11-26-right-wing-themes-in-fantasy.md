@@ -1,5 +1,6 @@
 ---
 title: Complaining about Right Wing Themes in Fantasy
+tags: [rant]
 ---
 
 there are so many right wing fantasy fans

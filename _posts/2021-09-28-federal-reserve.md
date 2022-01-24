@@ -1,3 +1,8 @@
+---
+title: The Federal Reserve
+tags: [politics]
+---
+
 in the american system of government, congress passes budget legislation, describing how the president should spend money, then the president implements that legislation using the budget. separate from that, congress also passes taxes, which is totally unrelated to the executive branch's budget 
 
 now unsurprisingly, congress does not like to raise taxes very much, so the president is stuck spending more money than he has 

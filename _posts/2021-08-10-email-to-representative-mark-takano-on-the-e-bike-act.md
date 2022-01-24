@@ -1,6 +1,9 @@
-Email to Representative Mark Takano on the E-BIKE Act. 
-Write to your representative here: www.govtrack.us/congress/bills/117/hr1019
+---
+title: Email to Representative Mark Takano on the E-BIKE Act. 
+tags: [politics]
+---
 
+Write to your representative here: www.govtrack.us/congress/bills/117/hr1019
 
 Dear Representative Takano,
 

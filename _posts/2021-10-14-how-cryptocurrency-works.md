@@ -1,4 +1,7 @@
-# How cryptocurrency works
+---
+title: How cryptocurrency works
+tags: [politics]
+---
 
 basically, it turns out, within a market economy, something only has value if people are willing to pay for it
 if i decide that imma declare that you can pay \$1 to increment a variable on my computer, and you're willing to pay that dollar, then i can effectively use that as a form of currency

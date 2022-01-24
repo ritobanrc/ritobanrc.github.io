@@ -1,3 +1,8 @@
+---
+title: Econ 101 Textbook
+tags: [politics]
+---
+
 i'm looking at Paul Krugman's econ 101 textbook
 and it starts off with a series of assumptions, much the same as a physicist would assume air resistance and friction are zero
 except these assumptions are a bit peculiar
