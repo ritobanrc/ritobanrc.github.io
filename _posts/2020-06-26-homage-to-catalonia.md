@@ -3,10 +3,10 @@ title  : Homage to Catalonia
 tags: [book-review]
 ---
 
-author : George Orwell
-start  :  7 Jun 2020
-end    : 25 May 2020 
-rating : 2.3
+* Author : George Orwell
+* Start  :  7 Jun 2020
+* End    : 25 May 2020 
+* Rating : 2.3
 
 This book wasn't particularly good. It describes Orwell's time in Catalonia, but doesn't really provide a cohesive or coherent narrative throughout the story. Instead, it feels like a series of disconnected events. Broadly, a handful of ideas just keep getting repeated: 
 
