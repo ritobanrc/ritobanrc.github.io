@@ -1,6 +1,7 @@
 ---
 title: Taylor Expansions
 tags: [math]
+mathjax: true
 ---
 
 taylor expansions are also pretty cool

@@ -1,6 +1,7 @@
 ---
 title: Lagrangian Mechanics
 tags: [physics,math]
+mathjax: true
 ---
 
 A writeup explaining Lagrangian mechanics to a friend who asked about the Standard Model Lagrangian.
