@@ -4,6 +4,8 @@ tags: [math]
 mathjax: true
 ---
 
+This proof came about after learning about the central limit theorem in my AP Statistics class, where it was presented without proof. It wasn't intuitively obvious to me that the theorem was true, so I decided to spend some time learning about it. I've written up a proof, and tried to keep it at a level that someone who has only taken AP Statistics and Calculus should be able to follow (knowledge of Taylor expansions is a pre-requisite, but I already have an article explaining those, and familiarity iwth Fourier transforms would help, but shouldn't be strictly necessary).
+
 $$
 \require{physics}
 \newcommand{\intr}{\int _{-\infty} ^{\infty}}
@@ -75,12 +77,10 @@ convolution of their PDFs.
 
 # Central Limit Theorem
 
-The central limit theorem says that given $n$ independent and
-identically distributed (i.i.d) random variables $X_1, X_2, ..., X_n$,
-the distribution of their sum $X = X_1 + X_2 + ... + X_n$ approaches a
-normal distribution as $n \to \infty$. We can standardize $X$ as
-$S = \frac{X - n \mu}{\sigma \sqrt{n}}$, so the distribution of $S$
-approaches the standard normal.
+The central limit theorem says that given $n$ independent and identically
+distributed (i.i.d) random variables $X_1, X_2, ..., X_n$, the distribution of
+their sum $X = X_1 + X_2 + ... + X_n$ approaches a normal distribution as $n
+\to \infty$ with mean $n\mu$ and standard deviation $\sigma \sqrt{n}$. 
 
 The key idea in this proof is quite simple. If the probability density
 function of each of the random variables $X_i$ is called $f$ (they are
