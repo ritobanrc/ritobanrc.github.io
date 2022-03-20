@@ -271,7 +271,7 @@ $$\Psi(\xi) \approx -i\mu \xi - \frac{\sigma^2 \xi^2}{2}.$$
 We can get the characteristic function $\Phi$ from this,
 
 $$\begin{aligned}
-    \Phi(\xi) &\approx \exp(\Psi(\xi)) \\ 
+    \Phi(\xi) &= \exp(\Psi(\xi)) \\ 
               &\approx \exp(-i\mu \xi - \frac{\sigma^2 \xi^2}{2}).\end{aligned}$$
 
 Notice that this already is looking like a Gaussian -- something like
@@ -283,20 +283,20 @@ itself $n$-times. Conveniently, since $\Phi$ is already an exponential,
 this is quite simple.
 
 $$\begin{aligned}
-^n &\approx [\exp(-i\mu \xi - \frac{\sigma^2 \xi^2}{2})]^n \\
+\left[\Phi(\xi) \right]^n &\approx [\exp(-i\mu \xi - \frac{\sigma^2 \xi^2}{2})]^n \\
                   &\approx \exp(-in\mu \xi - \frac{n\sigma^2 \xi^2}{2})\end{aligned}$$
 
 We can now perform the *inverse* Fourier transform on $\Phi^n$, to get
 back to the probability density function.
 
 $$\begin{aligned}
-    f_X(x) &= \fourier^{-1}\{\Phi^n\} \\
+    f_X(x) &= \fourier^{-1}\{\Phi^n\}(x) \\
            &= \frac{1}{2\pi} \int _{-\infty} ^{\infty}[\Phi(\xi)]^n e^{i\xi x} \dd \xi\\
            &\approx \frac{1}{2\pi} \int _{-\infty} ^{\infty}\exp(-in\mu \xi - \frac{n\sigma^2 \xi^2}{2}) e^{i\xi x} \dd \xi\\
            &\approx \frac{1}{2\pi} \int _{-\infty} ^{\infty}\exp(i \xi x - in\mu \xi - \frac{n\sigma^2 \xi^2}{2})  \dd \xi\\
            &\approx \frac{1}{2\pi} \int _{-\infty} ^{\infty}\exp(- \frac{n\sigma^2 \xi^2}{2})  e^{i \xi (x - n\mu)} \dd \xi\end{aligned}$$
 
-Observe that that is a Fourier Transform of the Gaussian
+Observe that that is an inverse Fourier Transform of the Gaussian
 $\exp(- \frac{n\sigma^2 \xi^2}{2})$. We just need to show that is
 another Gaussian!
 
