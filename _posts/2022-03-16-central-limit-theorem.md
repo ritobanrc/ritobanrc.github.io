@@ -1,5 +1,5 @@
 ---
-title: Why tf is the Central Limit Theorem true?
+title: Why is the Central Limit Theorem true?
 tags: [math]
 mathjax: true
 ---
