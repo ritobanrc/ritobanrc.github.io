@@ -4,7 +4,7 @@ tags: [math]
 mathjax: true
 ---
 
-This proof came about after learning about the central limit theorem in my AP Statistics class, where it was presented without proof. It wasn't intuitively obvious to me that the theorem was true, so I decided to spend some time learning about it. I've written up a proof, and tried to keep it at a level that someone who has only taken AP Statistics and Calculus should be able to follow (knowledge of Taylor expansions is a pre-requisite, but I already have an article explaining those, and familiarity iwth Fourier transforms would help, but shouldn't be strictly necessary).
+This proof came about after learning about the central limit theorem in my AP Statistics class, where it was presented without proof. It wasn't intuitively obvious to me that the theorem was true, so I decided to spend some time learning about it. I've written up a proof, and tried to keep it at a level that someone who has only taken AP Statistics and Calculus should be able to follow (knowledge of Taylor expansions is a pre-requisite, but I already have an article explaining those, and familiarity with Fourier transforms would help, but shouldn't be strictly necessary).
 
 $$
 \require{physics}
