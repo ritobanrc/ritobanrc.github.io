@@ -172,9 +172,9 @@ $$\Phi (\xi) = (\mathcal{F}f) (\xi) = \int _{-\infty} ^{\infty}f(x) e^{-i\xi x} 
 The PDF corresponding to the random variable $X$ is
 $f_X = f * f * \dots * f$, and its characteristic function is
 $\left[\Phi(\xi)\right]^n$, because convolving together two functions
-correponds to merely multiplying their Fourier transforms.
+corresponds to merely multiplying their Fourier transforms.
 
-Next, let $\Psi(\xi) = \log (\phi)$, and then Taylor expand,
+Next, let $\Psi(\xi) = \log (\Phi(\xi))$, and then Taylor expand,
 $\Psi(\xi) = C_0 + C_1 \xi + \frac{C_2 \xi^2}{2} + O(\xi^3)$. These
 coefficients $C_i$ are referred to as the "cumulants" of the probability
 distribution. We are going to only use the first 3 terms of the Taylor
