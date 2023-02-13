@@ -39,6 +39,7 @@ navbar-links:
   Politics: "tags#politics"
   Book Reviews: "tags#book-review"
   Resume: "resume"
+  Portfolio: "portfolio"
 
 social-network-links:
   email: "ritobanrc@gmail.com"
