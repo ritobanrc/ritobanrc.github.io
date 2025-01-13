@@ -1,0 +1,8 @@
+- non-holonimic fluid?
+- tritontrails
+- fluid simulator
+- firework renderer
+- chess game
+- 291 projects
+- walk on sphers
+- implicit surfaces?
