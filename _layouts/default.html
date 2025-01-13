@@ -82,11 +82,14 @@
               {{post.authors}}
 
               <br>
-              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }} {{}}
+              <em>{{post.venue}}</em>, {{ post.date | date: "%Y" }}
               {% if post.comment %}
-              <span color="red"> {{ post.comment }} </span>
+              <span style="color: red; font-weight: bold"> {{ post.comment }} </span>
               {% endif %}
               <br>
+              {% if post.paper %}
+              <a href="{{post.paper}}">paper</a> /
+              {% endif %}
               {% if post.arxiv %}
               <a href="{{post.arxiv}}">arxiv</a> /
               {% endif %}
