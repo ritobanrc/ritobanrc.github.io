@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "Fluid Implicit Particles on Coadjoint Oribts"
 date:   2024-12-28 22:21:59 +00:00
 image: /images/coflip.jpg
 categories: research
-author: "Leo Keselman"
-authors: "<strong>Leonid Keselman</strong>, Martial Hebert"
+author: "Ritoban Roy-Chowdhury"
+authors: "Mohammad Sina Nabizadeh, <strong>Ritoban Roy-Chowdhury</strong>, Hang Yin, Ravi Ramamoorthi, Albert Chern"
 venue: "arXiv"
 arxiv: https://arxiv.org/abs/2308.14737
 code: https://github.com/leonidk/fmb-plus

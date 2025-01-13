@@ -5,7 +5,7 @@ date:   2024-12-1 23:59:00 +00:00
 image: /images/coflip.jpg
 categories: research
 author: "Ritoban Roy-Chowdhury"
-authors: Mohammad Sina Nabizadeh, <strong>Ritoban Roy-Chowdhury</strong>, Hang Yin, Ravi Ramamoorthi, Albert Chern"
+authors: "Mohammad Sina Nabizadeh, <strong>Ritoban Roy-Chowdhury</strong>, Hang Yin, Ravi Ramamoorthi, Albert Chern"
 venue: "SIGGRAPH Asia, 2024, <span color="red">Best Paper (Honorable Mention)</span>"
 arxiv: https://arxiv.org/abs/2406.01936
 website: https://cseweb.ucsd.edu/~viscomp/projects/SIGA24COFLIP/
