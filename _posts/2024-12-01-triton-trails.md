@@ -3,7 +3,7 @@ layout: post
 title:  "Triton Trails"
 date:   2024-12-01 23:59:00 +00:00
 course: CSE 110, Software Engineering
-image: /images/path-grid.png
+image: /images/triton-trails.png
 categories: project
 code: https://github.com/ritobanrc/TritonTrails/
 ---
