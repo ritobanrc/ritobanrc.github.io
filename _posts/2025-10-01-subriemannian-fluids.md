@@ -5,7 +5,7 @@ date:   2025-10-01 23:59:00 +00:00
 image: /images/subriemannian_fluid.png
 categories: research
 author: "Ritoban Roy-Chowdhury"
-authors: "<strong>Ritoban Roy-Chowdhury</strong>
+authors: "<strong>Ritoban Roy-Chowdhury</strong>"
 venue: "CSE Honors Program"
 comment: ""
 ---
