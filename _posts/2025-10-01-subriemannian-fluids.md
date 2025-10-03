@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hamiltonian Fluids from Sub-Riemannian Geometry"
-date:   2025-10-02 23:59:00 +00:00
+date:   2025-10-01 23:59:00 +00:00
 image: /images/subriemannian_fluid.png
 categories: research
 author: "Ritoban Roy-Chowdhury"
